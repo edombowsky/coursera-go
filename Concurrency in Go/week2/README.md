@@ -1,4 +1,4 @@
-# Module 1 Activity - CONCURRENCY BASICS
+# Module 2 Activity - CONCURRENCY BASICS
 
 [Assignment](https://www.coursera.org/learn/golang-concurrency/peer/RAJ0V/module-2-activity)
 
